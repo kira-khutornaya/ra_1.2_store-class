@@ -2,6 +2,8 @@
   "name": "ra_1.2_store-class",
   "version": "0.1.0",
   "private": true,
+  "repository": "https://github.com/kira-khutornaya/ra_1.2_store-class.git",
+  "homepage": "https://kira-khutornaya.github.io/ra_1.2_store-class",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
